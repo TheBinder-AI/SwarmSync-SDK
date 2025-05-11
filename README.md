@@ -1,6 +1,5 @@
-# SwarmSync
-
-SwarmSync: Your AI dream team for autonomous, human-like task synchronization. Build smarter, faster, and together.
+<h1 align="center">SwarmSync</h1>
+<p align="center">Your AI dream team for autonomous, human-like task synchronization. Build smarter, faster, and together.</p>
 
 ![SwarmSync Logo](swarmsync.jpeg)
 
