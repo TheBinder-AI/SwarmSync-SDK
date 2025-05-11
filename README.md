@@ -4,7 +4,7 @@ SwarmSync: Your AI dream team for autonomous, human-like task synchronization. B
 
 ![SwarmSync Logo](swarmsync.jpeg)
 
-SwarmSync is a cutting-edge platform for building **AI-powered agent swarms** that collaborate like elite human teams to autonomously handle complex tasks, such as software development, market research, and operational workflows, 10x faster and at a fraction of the cost. With a modular design, seamless integrations, and extensible tools, SwarmSync empowers developers and businesses to orchestrate intelligent, role-based AI agents that sync effortlessly across tasks.
+SwarmSync is a cutting-edge platform for building **AI-powered agent swarms** that collaborate like elite human teams to autonomously handle complex tasks, such as software development, market research, and operational workflows, 10x faster and at a fraction of the cost.
 
 🌟 **Why SwarmSync?** Unlike single-agent AI or rigid automation tools, SwarmSync's vertical multi-agent swarms mimic human teamwork, dynamically allocating tasks, making decisions, and integrating with tools like Search Engine, Web Browsers, GitHub, Linear, etc. To add more modalities, we are currently working on the MCP setup as well to provide smoother agentic capabilities with tools.
 
