@@ -4,9 +4,9 @@ SwarmSync: Your AI dream team for autonomous, human-like task synchronization. B
 
 ![SwarmSync Logo](swarmsync.jpeg)
 
-SwarmSync is a cutting-edge platform for building **AI-powered agent swarms** that collaborate like elite human teams to autonomously handle complex tasks—such as software development, market research, and operational workflows—10x faster and at a fraction of the cost. With a modular design, seamless integrations, and extensible tools, SwarmSync empowers developers and businesses to orchestrate intelligent, role-based AI agents that sync effortlessly across tasks.
+SwarmSync is a cutting-edge platform for building **AI-powered agent swarms** that collaborate like elite human teams to autonomously handle complex tasks, such as software development, market research, and operational workflows, 10x faster and at a fraction of the cost. With a modular design, seamless integrations, and extensible tools, SwarmSync empowers developers and businesses to orchestrate intelligent, role-based AI agents that sync effortlessly across tasks.
 
-🌟 **Why SwarmSync?** Unlike single-agent AI or rigid automation tools, SwarmSync's vertical multi-agent swarms mimic human teamwork, dynamically allocating tasks, making decisions, and integrating with tools like Search Engine, Web Browsers, GitHub, Linear, and etc. To add more modalities we are currently working on MCP setup as well to provide more smooth agentic capabilitites with tools.
+🌟 **Why SwarmSync?** Unlike single-agent AI or rigid automation tools, SwarmSync's vertical multi-agent swarms mimic human teamwork, dynamically allocating tasks, making decisions, and integrating with tools like Search Engine, Web Browsers, GitHub, Linear, etc. To add more modalities, we are currently working on the MCP setup as well to provide smoother agentic capabilities with tools.
 
 ## Features
 
@@ -38,4 +38,9 @@ SwarmSync is licensed under the Apache-2.0 License (LICENSE). Feel free to use, 
 - X (Twitter): [@TheBinderAI](https://x.com/TheBinderAI)
 
 
+## Acknowledgements
+We'd like to acknowledge the excellent work of the open-source community, especially:
 
+-   [Pydantic](https://docs.pydantic.dev/latest/) (data validation) and [PydanticAI](https://ai.pydantic.dev/) (advanced agent framework)
+
+We're committed to continuing to build the SwarmSync Agents SDK as an open-source framework so others in the community can expand on our approach.
