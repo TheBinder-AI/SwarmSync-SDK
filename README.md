@@ -27,10 +27,6 @@ Example usage:
 # Coming soon! Stay tuned for our SDK documentation and examples.
 ```
 
-## License
-
-SwarmSync is licensed under the Apache-2.0 License (LICENSE). Feel free to use, modify, and distribute it as per the license terms.
-
 ## Contact
 
 - GitHub: [TheBinder-AI/SwarmSync-SDK](https://github.com/TheBinder-AI/SwarmSync-SDK)
@@ -43,3 +39,7 @@ We'd like to acknowledge the excellent work of the open-source community, especi
 -   [Pydantic](https://docs.pydantic.dev/latest/) (data validation) and [PydanticAI](https://ai.pydantic.dev/) (advanced agent framework)
 
 We're committed to continuing to build the SwarmSync Agents SDK as an open-source framework so others in the community can expand on our approach.
+
+## License
+
+SwarmSync is licensed under the [Apache-2.0 License](LICENSE). Feel free to use, modify, and distribute it as per the license terms.
