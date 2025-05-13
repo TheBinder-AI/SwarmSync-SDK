@@ -1,7 +1,9 @@
 <h1 align="center">SwarmSync</h1>
 <p align="center">Your AI dream team for autonomous, human-like task synchronization. Build smarter, faster, and together.</p>
 
-![SwarmSync Logo](swarmsync.jpeg)
+<p align="center">
+  <img src="swarmsync.png" alt="SwarmSync Logo" width="300"/>
+</p>
 
 SwarmSync is a cutting-edge platform for building **AI-powered agent swarms** that collaborate like elite human teams to autonomously handle complex tasks, such as software development, market research, and operational workflows, 10x faster and at a fraction of the cost.
 
@@ -11,7 +13,9 @@ SwarmSync is a cutting-edge platform for building **AI-powered agent swarms** th
 
 SwarmSync framework design diagram:
 
-![SwarmSync Framework](diagram.png)
+<p align="center">
+  <img src="diagram.png" alt="SwarmSync Framework" width="600"/>
+</p>
 
 ## Concepts
 
