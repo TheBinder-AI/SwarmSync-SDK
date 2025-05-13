@@ -11,7 +11,7 @@ SwarmSync is a cutting-edge platform for building **AI-powered agent swarms** th
 
 SwarmSync framework design diagram:
 
-![SwarmSync Framework](design_architecture.png)
+![SwarmSync Framework](diagram.png)
 
 ## Concepts
 
