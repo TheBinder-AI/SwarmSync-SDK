@@ -7,6 +7,12 @@
 
 Welcome to **SwarmSync SDK**, a cutting-edge platform for building **AI-powered agent swarms** that collaborate like elite human teams. Our vertical multi-agent swarms autonomously handle complex tasks—software development, market research, operational workflows—**10x faster** and at a fraction of the cost.
 
+> **Note**: SwarmSync SDK is currently in alpha development. While we're excited to share our progress, please be aware that:
+> - The API and features are subject to change
+> - We're actively gathering feedback and improving the framework
+> - Production use is not recommended at this stage
+> - We welcome contributions and feedback from the community
+
 🌟 **Why SwarmSync?**  
 Unlike single-agent AI or rigid automation tools, SwarmSync's swarms mimic human teamwork with **dynamic task allocation**, **multi-turn decision-making**, and seamless integration with tools like Search Engines, Web Browsers, GitHub, and Linear. We're also working on **MCP setup** to enhance agentic capabilities, bringing even smoother collaboration.
 
