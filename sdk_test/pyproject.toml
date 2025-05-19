@@ -1,0 +1,49 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "swarmsync-sdk"
+version = "0.1.0"
+description = "Collaborative vertical AI multi-agent swarms that acts like a human to sync all tasks autonomously"
+readme = "README.md"
+requires-python = ">=3.7"
+license = "MIT"
+authors = [
+    { name = "Jahid Hasan", email = "engjahidhasan20@gmail.com" }
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "openai>=1.0.0",
+    "rich>=10.0.0",
+    "pyyaml>=6.0",
+    "requests>=2.31.0",
+]
+
+[project.optional-dependencies]
+full = [
+    "browser-use>=0.1.40",
+    "playwright>=1.40.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/TheBinder-AI/SwarmSync-SDK"
+Documentation = "https://github.com/TheBinder-AI/SwarmSync-SDK#readme"
+Repository = "https://github.com/TheBinder-AI/SwarmSync-SDK.git"
+Issues = "https://github.com/TheBinder-AI/SwarmSync-SDK/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["swarmsync"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-v --cov=swarmsync" 

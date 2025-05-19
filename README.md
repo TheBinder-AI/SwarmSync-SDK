@@ -2,7 +2,7 @@
 <p align="center">Collaborative AI Agent Swarms for Autonomous Task Synchronization</p>
 
 <p align="center">
-  <img src="swarmsync.png" alt="SwarmSync Logo" width="300"/>
+  <img src="assets/swarmsync.png" alt="SwarmSync Logo" width="300"/>
 </p>
 
 Welcome to **SwarmSync**, a cutting-edge platform for building **AI-powered agent swarms** that collaborate like elite human teams. Our vertical multi-agent swarms autonomously handle complex tasks—software development, market research, operational workflows—**10x faster** and at a fraction of the cost.
@@ -15,7 +15,7 @@ Unlike single-agent AI or rigid automation tools, SwarmSync's swarms mimic human
 SwarmSync framework design diagram:
 
 <p align="center">
-  <img src="diagram.png" alt="SwarmSync Framework" width="600"/>
+  <img src="assets/diagram.png" alt="SwarmSync Framework" width="600"/>
 </p>
 
 ## Concepts

@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+.vscode
+.venv
+.vs
+venv*
+*.pyc
+__pycache__/
+.pytest_cache/
+config.yaml
+tests
+run_local_cases.py
+*.zip
+workspace/
+*.egg-info/
+build/
+dist/
