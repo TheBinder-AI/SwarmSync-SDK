@@ -7,16 +7,6 @@
 
 Welcome to **SwarmSync SDK**, a cutting-edge platform for building **AI-powered agent swarms** that collaborate like elite human teams. Our vertical multi-agent swarms autonomously handle complex tasks—software development, market research, operational workflows—**10x faster** and at a fraction of the cost.
 
-## Quick Start
-
-```bash
-# Install the SDK
-pip install swarmsync-sdk
-
-# For full installation with browser tools
-pip install swarmsync-sdk[full]
-```
-
 🌟 **Why SwarmSync?**  
 Unlike single-agent AI or rigid automation tools, SwarmSync's swarms mimic human teamwork with **dynamic task allocation**, **multi-turn decision-making**, and seamless integration with tools like Search Engines, Web Browsers, GitHub, and Linear. We're also working on **MCP setup** to enhance agentic capabilities, bringing even smoother collaboration.
 
@@ -35,6 +25,48 @@ SwarmSync framework design diagram:
 - **Extensible Tools**: Seamless integration with tools like Search Engine, Web Browsers, GitHub, Linear, and more.
 - **MCP Integration**: Model Context Protocol setup for enhanced agentic capabilities.
 
+## Quick Start
+
+### Installation
+
+```bash
+# Install the SDK
+pip install swarmsync-sdk
+
+# For full installation with browser tools
+pip install swarmsync-sdk[full]
+```
+
+### Basic Usage
+
+```python
+from swarmsync import AgentTeam, Agent, Task
+from swarmsync.common import ModelFactory
+
+# Initialize the model factory
+model_factory = ModelFactory()
+
+# Create a team
+team = AgentTeam(
+    name="example_team",
+    description="A simple example team",
+    model=model_factory.get_model("gpt-4")
+)
+
+# Create and add agents
+researcher = Agent(
+    name="researcher",
+    system_prompt="You are a research specialist",
+    model=model_factory.get_model("gpt-4")
+)
+
+team.add(researcher)
+
+# Run a task
+task = Task(content="Research the latest trends in AI")
+result = team.run(task)
+```
+
 ## SDK Test Environment
 
 This directory contains test and example code for the SwarmSync SDK.
@@ -50,7 +82,7 @@ sdk_test/
 └── pyproject.toml        # Project configuration and dependencies
 ```
 
-### Setup
+### Development Setup
 
 1. Create a virtual environment:
 ```bash
