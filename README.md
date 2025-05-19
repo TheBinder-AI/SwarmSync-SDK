@@ -2,10 +2,20 @@
 <p align="center">Collaborative AI Agent Swarms for Autonomous Task Synchronization</p>
 
 <p align="center">
-  <img src="../assets/swarmsync.png" alt="SwarmSync Logo" width="300"/>
+  <img src="assets/swarmsync.png" alt="SwarmSync Logo" width="300"/>
 </p>
 
 Welcome to **SwarmSync SDK**, a cutting-edge platform for building **AI-powered agent swarms** that collaborate like elite human teams. Our vertical multi-agent swarms autonomously handle complex tasks—software development, market research, operational workflows—**10x faster** and at a fraction of the cost.
+
+## Quick Start
+
+```bash
+# Install the SDK
+pip install swarmsync-sdk
+
+# For full installation with browser tools
+pip install swarmsync-sdk[full]
+```
 
 🌟 **Why SwarmSync?**  
 Unlike single-agent AI or rigid automation tools, SwarmSync's swarms mimic human teamwork with **dynamic task allocation**, **multi-turn decision-making**, and seamless integration with tools like Search Engines, Web Browsers, GitHub, and Linear. We're also working on **MCP setup** to enhance agentic capabilities, bringing even smoother collaboration.
@@ -15,7 +25,7 @@ Unlike single-agent AI or rigid automation tools, SwarmSync's swarms mimic human
 SwarmSync framework design diagram:
 
 <p align="center">
-  <img src="../assets/diagram.png" alt="SwarmSync Framework" width="600"/>
+  <img src="assets/diagram.png" alt="SwarmSync Framework" width="600"/>
 </p>
 
 ## Key Features
@@ -50,7 +60,10 @@ source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 
 2. Install development dependencies:
 ```bash
+# Install the SDK in development mode
 pip install -e ".[full]"
+
+# Install testing dependencies
 pip install pytest pytest-cov
 ```
 
