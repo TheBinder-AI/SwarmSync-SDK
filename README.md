@@ -132,6 +132,13 @@ The SDK test environment is set up to help you:
 - Create example code
 - Run unit tests
 
+
+## Use Cases
+```bash
+Demo use cases will be available soon
+```
+
+
 ## Contributing
 
 1. Write tests for new features
