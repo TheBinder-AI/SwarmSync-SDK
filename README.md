@@ -38,6 +38,12 @@ Unlike single-agent AI or rigid automation tools, SwarmSync's swarms mimic human
 
 ## Overview
 
+SwarmSync System Architecture:
+
+<p align="center">
+  <img src="assets/architecture.png" alt="SwarmSync System Architecture" width="800"/>
+</p>
+
 SwarmSync framework design diagram:
 
 <p align="center">
