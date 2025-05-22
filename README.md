@@ -1,5 +1,25 @@
-<h1 align="center">SwarmSync SDK</h1>
-<p align="center">Collaborative AI Agent Swarms for Autonomous Task Synchronization</p>
+# SwarmSync SDK
+
+<div align="center">
+  <h2>
+    Collaborative AI Agent Swarms for Autonomous Task Synchronization
+  </h2>
+
+  <div align="center">
+    <a href="https://github.com/TheBinder-AI/SwarmSync-SDK/graphs/commit-activity"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/TheBinder-AI/SwarmSync-SDK"/></a>
+    <a href="https://github.com/TheBinder-AI/SwarmSync-SDK/issues"><img alt="GitHub open issues" src="https://img.shields.io/github/issues/TheBinder-AI/SwarmSync-SDK"/></a>
+    <a href="https://github.com/TheBinder-AI/SwarmSync-SDK/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/TheBinder-AI/SwarmSync-SDK"/></a>
+    <!-- <a href="https://pypi.org/project/thebinder_ai/"><img alt="PyPI version" src="https://img.shields.io/pypi/v/swarmsync-sdk"/></a>
+    <a href="https://python.org"><img alt="Python versions" src="https://img.shields.io/pypi/pyversions/swarmsync-sdk"/></a> -->
+  </div>
+  
+  <!-- <p>
+    <a href="https://github.com/TheBinder-AI/SwarmSync-SDK#readme">Docs</a>
+    ◆ <a href="https://github.com/TheBinder-AI/SwarmSync-SDK/tree/main/sdk_test/examples">Samples</a>
+    ◆ <a href="https://github.com/TheBinder-AI/SwarmSync-SDK#key-features">Features</a>
+    ◆ <a href="https://github.com/TheBinder-AI/SwarmSync-SDK#quick-start">Quick Start</a>
+  </p> -->
+</div>
 
 <p align="center">
   <img src="assets/swarmsync.png" alt="SwarmSync Logo" width="300"/>
