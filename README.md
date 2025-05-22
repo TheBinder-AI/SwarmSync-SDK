@@ -134,6 +134,19 @@ The SDK test environment is set up to help you:
 
 
 ## Use Cases
+
+### Product Engineering Team Demo
+Showcasing a collaborative AI swarm that follows FAANG best practices and agile methodologies. The demo demonstrates how our AI agents work together to handle complex software development tasks with human-like precision.
+
+![Product Engineering Team Demo](assets/demo1.mp4)
+
+The team consists of:
+- Product Manager
+- Senior Developer
+- QA Lead
+
+This demo exemplifies how SwarmSync enables autonomous, structured R&D processes with clear roles and responsibilities.
+
 ```bash
 Demo use cases will be available soon
 ```
