@@ -138,9 +138,7 @@ The SDK test environment is set up to help you:
 ### 🎥 Product Engineering Team Demo
 > Showcasing a collaborative AI swarm that follows FAANG best practices and agile methodologies. The demo demonstrates how our AI agents work together to handle complex software development tasks with human-like precision.
 
-<div align="center">
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/ZdO7fQjTuk4" title="Product Engineering Team Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![Product Engineering Team Demo](https://img.youtube.com/vi/ZdO7fQjTuk4/maxresdefault.jpg)](https://youtu.be/ZdO7fQjTuk4)
 
 ### 🤖 Team Composition
 - **Product Manager**: Creates detailed PRDs with user stories and acceptance criteria
