@@ -8,13 +8,13 @@ version = "0.1.0"
 description = "Collaborative vertical AI multi-agent swarms that acts like a human to sync all tasks autonomously"
 readme = "README.md"
 requires-python = ">=3.7"
-license = "MIT"
+license = "Apache-2.0 license"
 authors = [
     { name = "Jahid Hasan", email = "engjahidhasan20@gmail.com" }
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: Apache-2.0 license",
     "Operating System :: OS Independent",
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
