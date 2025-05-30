@@ -172,6 +172,28 @@ The SDK test environment is set up to help you:
 - **QA Lead**: Performs comprehensive testing with edge cases
 
 
+## Vision and Roadmap
+Show what our SwarmSync fully autonomous collaborative multi-agents can do without any human intervention.
+
+### Agent
+
+- [ ] Add other team members
+- [ ] Add more MCP tools
+
+### Developer experience
+
+- [ ] Deploy the frontend UI
+- [ ] File attachment, workspace for PPT, Docs, Excel, code files
+- [ ] Self-host service
+
+### Workflows
+
+- [ ] Update the agentic workflow to do self-healing autonomous tasks without human intervene in the teams
+- [ ] Optimize LLM fallback, token usage, and steps to improve the support
+- [ ] Teamwork, memory management within teams
+- [ ] Exposure to all available MCP tools for better support
+- [ ] Use SwarmSync to automatically create website, MVP, visualization, code, debug, testing, financial strategy, etc
+
 ## Contributing
 
 1. Write tests for new features
