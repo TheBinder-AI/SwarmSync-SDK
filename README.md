@@ -38,6 +38,12 @@ Unlike single-agent AI or rigid automation tools, SwarmSync's swarms mimic human
 
 ## Overview
 
+SwarmSync Frontend UI:
+
+<p align="center">
+  <img src="assets/banner.png" alt="Frontend UI" width="800"/>
+</p>
+
 SwarmSync System Architecture:
 
 <p align="center">
@@ -182,7 +188,8 @@ Show what our SwarmSync fully autonomous collaborative multi-agents can do witho
 
 ### Developer experience
 
-- [ ] Deploy the frontend UI
+- [x] Frontend UI, dashboard
+- [ ] Deploy the frontend UI (WIP)
 - [ ] File attachment, workspace for PPT, Docs, Excel, code files
 - [ ] Self-host service
 
