@@ -41,7 +41,7 @@ Unlike single-agent AI or rigid automation tools, SwarmSync's swarms mimic human
 SwarmSync Frontend UI:
 
 <p align="center">
-  <img src="assets/banner.png" alt="Frontend UI" width="800"/>
+  <img src="assets/frontend.gif" alt="SwarmSync Frontend Demo" width="800"/>
 </p>
 
 SwarmSync System Architecture:
