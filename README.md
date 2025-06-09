@@ -224,3 +224,8 @@ SwarmSync is licensed under the [Apache-2.0 License](LICENSE). Feel free to use,
 
 - GitHub: [TheBinder-AI/SwarmSync-SDK](https://github.com/TheBinder-AI/SwarmSync-SDK)
 - X (Twitter): [@TheBinderAI](https://x.com/TheBinderAI)
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheBinder-AI/SwarmSync-SDK&type=Date)](https://star-history.com/#TheBinder-AI/SwarmSync-SDK&Date)
