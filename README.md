@@ -5,7 +5,10 @@
     Collaborative AI Agent Swarms for Autonomous Task Synchronization
   </h2>
 
-  <div align="center">
+  <div align="center"> 
+    <a href="https://github.com/TheBinder-AI/SwarmSync-SDK/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/TheBinder-AI/SwarmSync-SDK?style=social" />
+  </a>
     <a href="https://github.com/TheBinder-AI/SwarmSync-SDK/graphs/commit-activity"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/TheBinder-AI/SwarmSync-SDK"/></a>
     <a href="https://github.com/TheBinder-AI/SwarmSync-SDK/issues"><img alt="GitHub open issues" src="https://img.shields.io/github/issues/TheBinder-AI/SwarmSync-SDK"/></a>
     <a href="https://github.com/TheBinder-AI/SwarmSync-SDK/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/TheBinder-AI/SwarmSync-SDK"/></a>
@@ -225,7 +228,8 @@ SwarmSync is licensed under the [Apache-2.0 License](LICENSE). Feel free to use,
 - GitHub: [TheBinder-AI/SwarmSync-SDK](https://github.com/TheBinder-AI/SwarmSync-SDK)
 - X (Twitter): [@TheBinderAI](https://x.com/TheBinderAI)
 
+## 📈 Star History
 
-## Star History
+## 📈 Star History of TheBinder AI SDK
 
-[![Star History Chart](https://api.star-history.com/svg?repos=TheBinder-AI/SwarmSync-SDK&type=Date)](https://star-history.com/#TheBinder-AI/SwarmSync-SDK&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=TheBinder-AI/SwarmSync-SDK&type=Date)](https://star-history.com/#TheBinder-AI/SwarmSync-SDK)
