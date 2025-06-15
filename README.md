@@ -230,6 +230,4 @@ SwarmSync is licensed under the [Apache-2.0 License](LICENSE). Feel free to use,
 
 ## 📈 Star History
 
-## 📈 Star History of TheBinder AI SDK
-
 [![Star History Chart](https://api.star-history.com/svg?repos=TheBinder-AI/SwarmSync-SDK&type=Date)](https://star-history.com/#TheBinder-AI/SwarmSync-SDK)
