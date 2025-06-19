@@ -14,6 +14,9 @@
     <a href="https://github.com/TheBinder-AI/SwarmSync-SDK/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/TheBinder-AI/SwarmSync-SDK"/></a>
     <!-- <a href="https://pypi.org/project/thebinder_ai/"><img alt="PyPI version" src="https://img.shields.io/pypi/v/swarmsync-sdk"/></a>
     <a href="https://python.org"><img alt="Python versions" src="https://img.shields.io/pypi/pyversions/swarmsync-sdk"/></a> -->
+    <a href="https://deepwiki.com/TheBinder-AI/SwarmSync-SDK">
+  <img alt="DeepWiki" src="https://deepwiki.com/badge.svg?url=https://deepwiki.com/TheBinder-AI/SwarmSync-SDK" />
+</a>
   </div>
   
   <!-- <p>
